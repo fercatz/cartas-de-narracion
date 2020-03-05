@@ -1,0 +1,32 @@
+1- Versión Mínima de prueba
+  1.1.Sería para subir a un blog de wordpress
+  1.2.Tiene que aparecer una pequeña explicación del objetivo del juego
+  1.3. Aparece la primera carta de Personaje hace
+  1.4. El jugador puede ir clickeando para que aparezcan las nuevas cartas. Tienen que ser cartas al azar del mazo 1.
+  1.5. Al finalizar tiene que aparecer un mensaje de acreditación de las cartas y la implementación online con links.
+  
+2- Versión prueba + juego completo 1 jugador
+  2.1. = 1.1. para subir a blog
+  2.2. = 1.2. pequeña explicación
+  2.3. El jugador puede elegir versión de prueba o completa
+  2.4. Versión de prueba = 1.3 a 1.5. (solo mazo 1)
+  2.5. Versión completa = 
+        2.5.1. = 1.3. carta personaje hace
+        2.5.2. Tras cada ronda de dos cartas, se habilita un nuevo mazo (ver reglas)
+        2.5.3. El último mazo puede usarse solo una vez
+        2.5.4. al finalizar =1.5. 
+        
+ 3- Versión de prueba + juego completo varios jugadores
+  -A la versión 2 se suma la opción de elegir cantidad de jugadores. 
+  -Las cartas que salen por ronda deben mostrarse según cantidad de jugadores 
+  -cada ronda debe durar tantas cartas como jugadores y tras cada ronda habilitarse un mazo.      
+  -si un jugador usó una carta del mazo 4, debe recordar qué jugador fue e inhabilitarlo
+  
+  4- Versión de prueba + juego completo varios jugadores con opción de escribir y guardar los textos
+  
+  5- ídem con opción compartir la historia en redes
+  
+  6- opcion de jugar online desde distintos lugares, hacer una app, diseños especiales, comentarios que aparezcan a lo largo del juego, etc etc. 
+  
+  
+  
